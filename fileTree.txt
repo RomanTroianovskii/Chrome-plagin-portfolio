@@ -1,0 +1,11 @@
+CHROME_EXTENSION_PORTFOLIO/
+├─ manifest.json
+├─ popup.html
+├─ popup.js
+├─ styles.css
+├─ content.js
+├─ background.js
+└─ icons/
+   ├─ icon16.png
+   ├─ icon32.png
+   └─ icon128.png
