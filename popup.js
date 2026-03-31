@@ -1,5 +1,5 @@
 const LINKS = {
-  portfolio: "https://example.com/portfolio",
+  portfolio: "https://www.fl.ru/users/romagh123/portfolio/#profile-nav",
   github: "https://github.com/RomanTroianovskii"
 };
 
